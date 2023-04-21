@@ -1,0 +1,4 @@
+Notas git
+
+
+-Enlace para la documentación del formato: https://git-scm.com/docs/pretty-formats
